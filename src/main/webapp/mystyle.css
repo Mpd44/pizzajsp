@@ -1,0 +1,46 @@
+/* mystyle.css by John Phillips on 9/8/2014 
+ * used by the pizzaweb example 
+ */
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    background-color: lime;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+p {
+    margin-left: 30px;
+}
+
+input {
+    margin: 20px 5px 0px 20px;
+}
+
+a:link { 
+    color: #00f; 
+    text-decoration: none;
+}
+a:visited { 
+    color: #00f; 
+    text-decoration: none;
+}
+a:hover { 
+    color: #fa1; 
+    text-decoration: none;
+}
+a:active { 
+    color: #ff0; 
+    text-decoration: none;
+}
+footer {
+    font-size: x-small;
+    margin-top: 8em;
+}
+
+
